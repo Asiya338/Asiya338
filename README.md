@@ -31,4 +31,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya338&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiya338&show_icons=true&count_private=true)
+
 Thank you for visiting my profile! 💻✨
