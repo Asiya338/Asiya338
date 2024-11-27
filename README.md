@@ -18,12 +18,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 - **Databases**: MongoDB, MySQL
 
 ### 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiya338&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya338&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asiya338&theme=radical)
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Asiya338&theme=github)
 
 Thank you for visiting my profile! 💻✨
