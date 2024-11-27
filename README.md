@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 
 ### 📚 Some of my projects:
 - [Memories](https://memories-xulc.onrender.com): a feature-rich, responsive web application built with the MERN stack. Enabled users to create, update, delete, and interact 
-  with posts through likes and comments, fosteringengagement and sharing of cherished moments. Integrated user authentication (custom and Google OAuth) and a recommendation 
+  with posts through likes and comments, fostering engagement and sharing of cherished moments. Integrated user authentication (custom and Google OAuth) and a recommendation 
   system to enhance user experience and personalization.
 
 
 ### 🛠️ My Skills:
-- **Languages**: JavaScript, Java, Python, C++, SQL
+- **Languages**: JavaScript, Java, Python, SQL
 - **Frameworks**: React, Node.js, Express, Tailwind CSS
 - **Databases**: MongoDB, MySQL
 
