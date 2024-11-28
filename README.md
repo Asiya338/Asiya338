@@ -7,11 +7,13 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 - [LinkedIn](https://www.linkedin.com/in/asiyask/)
 
 ### 📚 Some of my projects:
-- [Memories](https://memories-xulc.onrender.com): a feature-rich, responsive web application built with the MERN stack. Enabled users to create, update, delete, and interact 
-  with posts through likes and comments, fostering engagement and sharing of cherished moments. Integrated user authentication (custom and Google OAuth) and a recommendation 
-  system to enhance user experience and personalization.
+- [Memories](https://memories-xulc.onrender.com) : MERN - based Social Post Application
+  - [github link](https://github.com/Asiya338/Memories_Project_MERN)
 
+- [NEWS_Sphere]() : API - driven mini NEWS Website
+  - [github link](https://github.com/Asiya338/NEWS_SPHERE)
 
+  
 ### 🛠️ My Skills:
 - **Languages**: JavaScript, Java, Python, SQL
 - **Frameworks**: React, Node.js, Express, Tailwind CSS
