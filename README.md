@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 - [Memories](https://memories-qv82.onrender.com) : MERN - based Social Post Application
   - [github link](https://github.com/Asiya338/Memories_Project_MERN)
 
-- [NEWS_Sphere]() : API - driven mini NEWS Website
+- [NEWS_SPHERE](https://news-sphere-frontend.onrender.com) : API - driven mini NEWS Website
   - [github link](https://github.com/Asiya338/NEWS_SPHERE)
 
   
