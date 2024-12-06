@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 - [LinkedIn](https://www.linkedin.com/in/asiyask/)
 
 ### 📚 Some of my projects:
-- [Memories](https://memories-qv82.onrender.com) : MERN - based Social Post Application
+- [Memories](https://memories-mern-dkjr.onrender.com) : MERN - based Social Post Application
   - [github link](https://github.com/Asiya338/Memories_Project_MERN)
 
 - [NEWS_SPHERE](https://news-sphere-frontend.onrender.com) : API - driven mini NEWS Website
