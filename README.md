@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 
   
 ### 🛠️ My Skills:
-- **Languages**: JavaScript, Java, Python, SQL
+- **Languages**: Java, JavaScript, Python
 - **Frameworks**: React, Node.js, Express, Tailwind CSS
 - **Databases**: MongoDB, MySQL
 
