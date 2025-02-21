@@ -7,17 +7,20 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 - [LinkedIn](https://www.linkedin.com/in/asiyask/)
 
 ### 📚 Some of my projects:
-- [Memories](https://memories-mern-dkjr.onrender.com) : MERN - based Social Post Application
+- [Memories](https://memories-mern-dkjr.onrender.com) : MERN - Based Social Post Application
   - [github link](https://github.com/Asiya338/Memories_Project_MERN)
 
-- [NEWS_SPHERE](https://news-sphere-frontend.onrender.com) : API - driven mini NEWS Website
+- [NEWS_SPHERE](https://news-sphere-frontend.onrender.com) : API - Driven Mini NEWS Website
   - [github link](https://github.com/Asiya338/NEWS_SPHERE)
+
+- [Portfolio_Website](https://asiya338.github.io/Personal_Portfolio) : Personal Portfolio Website
+  - [github link](https://github.com/Asiya338/Personal_Portfolio)
 
   
 ### 🛠️ My Skills:
 - **Languages**: Java, JavaScript, Python
-- **Frameworks**: React, Node.js, Express, Tailwind CSS
-- **Databases**: MongoDB, MySQL
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MySQL, MongoDB
 
 ### 📊 GitHub Stats:
 
