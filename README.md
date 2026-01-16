@@ -14,11 +14,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer specializing i
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiya338&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Asiya338)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asiya338&layout=compact&theme=radical&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Asiya338&theme=radical)
 
 
 Thank you for visiting my profile! 💻✨
