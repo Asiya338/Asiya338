@@ -58,7 +58,7 @@ Uses OAuth 2.0 authentication, REST APIs, and structured error handling to ensur
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Asiya338)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asiya338&show_icons=true)
+![Asiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiya338&show_icons=true&theme=tokyonight)
 
 
 ### 💼 Connect with me
